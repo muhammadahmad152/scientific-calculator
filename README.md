@@ -34,7 +34,7 @@ It provides a clean futuristic interface for performing basic arithmetic and sci
 
 ## 📸 Preview
 
-![Scientific Calculator Preview](screenshot.png)
+![Scientific Calculator Preview](Screenshot.png)
 
 ## 🚀 Live Demo
 
