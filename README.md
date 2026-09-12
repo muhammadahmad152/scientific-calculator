@@ -46,11 +46,7 @@ It provides a clean futuristic interface for performing basic arithmetic and sci
 scientific-calculator/
 │
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── assets/
-│   └── images/
+├── style.css
+├── script.js
 ├── screenshot.png
 └── README.md
